@@ -31,19 +31,15 @@ WGU Cybersecurity and Information Assurance student with practical expertise in 
 
  ## 📜 WGU Cybersecurity & Information Assurance Certifications
 
-- ITIL® 4 Foundation
 - CompTIA A+
 - CompTIA Data+
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA Project+
-- CompTIA Cybersecurity Analyst (CySA+)
-- CompTIA PenTest+
-- CompTIA IT Operations Specialist
-- CompTIA Secure Infrastructure Specialist
-- CompTIA Network Vulnerability Assessment Professional
-- CompTIA Network Security Professional
-- CompTIA Security Analytics Professional
-- LPI Linux Essentials
-- Certified Cloud Security Professional (CCSP) 
-- Systems Security Certified Practitioner (SSCP) 
+
+
+## 📂 Resume & Certifications
+
+[Click here to view my certifications](https://drive.google.com/drive/folders/16Jylztps563Uau-3DSi6LIuryCSNq1OO?usp=sharing)
+
+
