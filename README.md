@@ -11,3 +11,19 @@ WGU Cybersecurity and Information Assurance student with practical expertise in 
 ## 🛡️ About Me:
 
 🎓 **Education:** B.S. Cybersecurity and Information Assurance student at WGU, CompTIA Project+ Certification, CompTIA Security+ Certification, CompTIA Network+ Certification, CompTIA A+ CORE 1 Certification, CompTIA A+ Core 2 Certification
+
+🧰 **Training:** TryHackMe Security Analyst labs | Pursuing SAL1  
+
+ 💻 **Hands-On:** Tryhackme/Hack The Box security analyst labs
+
+ 🎯 **Career Goal:** Junior Security Analyst or SOC Analyst internship/Full time postion
+
+## ⚡ Skills:
+
+- **Security Operations:** Alert Triage, Log Analysis, Threat Detection, Incident Response
+
+- - **Cybersecurity:** Network Security, Vulnerability Assessment, Penetration Testing Fundamentals
+ 
+  - - **Platforms:** TryHackMe
+   
+    - - **Tools:** Wireshark, Splunk, Linux, Windows
