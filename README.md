@@ -27,3 +27,23 @@ WGU Cybersecurity and Information Assurance student with practical expertise in 
   -  **Platforms:** TryHackMe
    
     -  **Tools:** Wireshark, Splunk, Linux, Windows
+ 
+
+      ## 📜 WGU Cybersecurity & Information Assurance Certifications:
+
+- ITIL® 4 Foundation
+- CompTIA A+
+- CompTIA Data+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA Project+
+- CompTIA Cybersecurity Analyst (CySA+)
+- CompTIA PenTest+
+- CompTIA IT Operations Specialist
+- CompTIA Secure Infrastructure Specialist
+- CompTIA Network Vulnerability Assessment Professional
+- CompTIA Network Security Professional
+- CompTIA Security Analytics Professional
+- LPI Linux Essentials
+- Certified Cloud Security Professional (CCSP) 
+- Systems Security Certified Practitioner (SSCP) 
