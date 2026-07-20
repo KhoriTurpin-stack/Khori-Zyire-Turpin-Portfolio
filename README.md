@@ -7,3 +7,7 @@ WGU Cybersecurity and Information Assurance student with practical expertise in 
  
  
  🔐 Passionate about threat detection, incident response, SIEM, network security, and cyber defense. Currently strengthening my hands-on skills through TryHackMe and pursuing the SAL1 certification.
+
+## 🛡️ About Me:
+
+🎓 **Education:** B.S. Cybersecurity and Information Assurance student at WGU, CompTIA Project+ Certification, CompTIA Security+ Certification, CompTIA Network+ Certification, CompTIA A+ CORE 1 Certification, CompTIA A+ Core 2 Certification
