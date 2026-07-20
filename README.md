@@ -22,8 +22,8 @@ WGU Cybersecurity and Information Assurance student with practical expertise in 
 
 - **Security Operations:** Alert Triage, Log Analysis, Threat Detection, Incident Response
 
-- - **Cybersecurity:** Network Security, Vulnerability Assessment, Penetration Testing Fundamentals
+  - **Cybersecurity:** Network Security, Vulnerability Assessment, Penetration Testing Fundamentals
  
-  - - **Platforms:** TryHackMe
+  -  **Platforms:** TryHackMe
    
-    - - **Tools:** Wireshark, Splunk, Linux, Windows
+    -  **Tools:** Wireshark, Splunk, Linux, Windows
