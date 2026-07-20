@@ -29,7 +29,7 @@ WGU Cybersecurity and Information Assurance student with practical expertise in 
     -  **Tools:** Wireshark, Splunk, Linux, Windows
  
 
-      ## 📜 WGU Cybersecurity & Information Assurance Certifications
+ ## 📜 WGU Cybersecurity & Information Assurance Certifications
 
 - ITIL® 4 Foundation
 - CompTIA A+
